@@ -1,0 +1,29 @@
+<dvtablesearch dvtablesearchid="73448fcc-f8ef-4e08-b294-e5539e0164d8">
+  <connectionreference>
+    <connectionreferencelogicalname>sales_KnowledgeSourceReader.cr.En5-1cix</connectionreferencelogicalname>
+  </connectionreference>
+  <iscustomizable>0</iscustomizable>
+  <knowledgeconfig>{
+  "$kind": "IngestionBasedGraphSearchConfiguration",
+  "driveItems": [
+    {
+      "$kind": "GraphDriveItemSyncDetails",
+      "displayName": "Medical Data",
+      "webUrl": "https://ascendionhub.sharepoint.com/sites/qualityengineeringcircle/Shared%20Documents/Medical%20Data",
+      "driveId": "b!zxOEH6q_MEil7NT3Gy81yf3cjMwp_ktCicEVboWaPkKpsKJLQ7PzQIHpcSXjiM21",
+      "itemId": "01WGH5NMIYEYJQ7IR6X5B2NLFNSRGIT7J5",
+      "sharepointIds": {
+        "$kind": "SharepointIds",
+        "webId": "cc8cdcfd-fe29-424b-89c1-156e859a3e42",
+        "listId": "4ba2b0a9-b343-40f3-81e9-7125e388cdb5",
+        "siteId": "1f8413cf-bfaa-4830-a5ec-d4f71b2f35c9",
+        "siteUrl": "https://ascendionhub.sharepoint.com/sites/qualityengineeringcircle"
+      }
+    }
+  ]
+}</knowledgeconfig>
+  <name>MedicalData_30haiW0Ay9o_kiFbYu8bo</name>
+  <searchtype>1</searchtype>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</dvtablesearch>

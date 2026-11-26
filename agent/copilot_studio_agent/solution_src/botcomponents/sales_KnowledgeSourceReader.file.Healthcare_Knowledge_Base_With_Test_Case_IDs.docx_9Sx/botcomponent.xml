@@ -1,0 +1,12 @@
+<botcomponent schemaname="sales_KnowledgeSourceReader.file.Healthcare_Knowledge_Base_With_Test_Case_IDs.docx_9Sx">
+  <componenttype>14</componenttype>
+  <description>This knowledge source searches information contained in Healthcare_Knowledge_Base_With_Test_Case_IDs.docx</description>
+  <filedata mimetype="application/vnd.openxmlformats-officedocument.wordprocessingml.document">Healthcare_Knowledge_Base_With_Test_Case_IDs.docx</filedata>
+  <iscustomizable>0</iscustomizable>
+  <name>Healthcare_Knowledge_Base_With_Test_Case_IDs.docx</name>
+  <parentbotid>
+    <schemaname>sales_KnowledgeSourceReader</schemaname>
+  </parentbotid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</botcomponent>

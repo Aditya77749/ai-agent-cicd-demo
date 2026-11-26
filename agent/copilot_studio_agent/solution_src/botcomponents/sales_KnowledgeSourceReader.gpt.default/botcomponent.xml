@@ -1,0 +1,11 @@
+<botcomponent schemaname="sales_KnowledgeSourceReader.gpt.default">
+  <componenttype>15</componenttype>
+  <description>This agent retrieves medical  data.</description>
+  <iscustomizable>0</iscustomizable>
+  <name>Medi Knowledge Source Reader</name>
+  <parentbotid>
+    <schemaname>sales_KnowledgeSourceReader</schemaname>
+  </parentbotid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</botcomponent>

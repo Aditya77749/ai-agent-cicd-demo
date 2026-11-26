@@ -1,0 +1,25 @@
+<ImportExportXml version="9.2.26103.175" SolutionPackageVersion="9.2" languagecode="1033" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" OrganizationVersion="9.2.26103.175" OrganizationSchemaType="Standard" CRMServerServiceabilityVersion="9.2.26103.00175">
+  <SolutionManifest>
+    <UniqueName>MediKnowledgeSourceReader</UniqueName>
+    <LocalizedNames>
+      <LocalizedName description="Medi Knowledge Source Reader" languagecode="1033" />
+    </LocalizedNames>
+    <Descriptions />
+    <Version>1.0.0.3</Version>
+    <Managed>0</Managed>
+    <Publisher>
+      <UniqueName>Cr386d6</UniqueName>
+      <LocalizedNames>
+        <LocalizedName description="CDS Default Publisher" languagecode="1033" />
+      </LocalizedNames>
+      <Descriptions />
+      <EMailAddress xsi:nil="true"></EMailAddress>
+      <SupportingWebsiteUrl xsi:nil="true"></SupportingWebsiteUrl>
+      <CustomizationPrefix>cr837</CustomizationPrefix>
+      <CustomizationOptionValuePrefix>96073</CustomizationOptionValuePrefix>
+      <Addresses />
+    </Publisher>
+    <RootComponents />
+    <MissingDependencies />
+  </SolutionManifest>
+</ImportExportXml>

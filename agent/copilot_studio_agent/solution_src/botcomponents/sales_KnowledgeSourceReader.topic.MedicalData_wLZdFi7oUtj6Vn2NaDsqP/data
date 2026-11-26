@@ -1,0 +1,7 @@
+kind: KnowledgeSourceConfiguration
+source:
+  kind: FederatedStructuredSearchSource
+  connectionProperties:
+    mode: Invoker
+
+  skillConfiguration: MedicalData_30haiW0Ay9o_kiFbYu8bo
